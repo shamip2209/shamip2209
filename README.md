@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shamip2209
+- 👋 Hi, I’m Shamil P
 - 👀 I’m interested in web development , Poster designing .
 - 🌱 I’m currently learning react projects.
 - 💞️ I’m looking to collaborate on web development works.
